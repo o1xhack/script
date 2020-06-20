@@ -1,3 +1,3 @@
 # script
 
-o1xhack.com
+https://o1xhack.com
