@@ -1,8 +1,6 @@
 # script
 
-# 所有内容：
-
-https://o1xhack.com/2020/06/21/surge/
+## https://o1xhack.com/2020/06/21/surge/
 
 
 ## License MIT
