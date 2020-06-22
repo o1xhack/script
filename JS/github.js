@@ -21,33 +21,13 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 
 const repositories = [
   {
-    name: "NZW9314 脚本",
-    url: "https://github.com/nzw9314/QuantumultX/tree/master",
+    name: "o1xhack 无规则",
+    file_names: ["JS&签(无规则)host 精简.conf"]
+    url: "https://github.com/o1xhack/script/blob/master/",
   },
   {
-    name: "ClashX",
-    url: "https://github.com/yichengchen/clashX/releases",
-  },
-  {
-    name: "Chavy 脚本",
-    url: "https://github.com/chavyleung/scripts",
-  },
-  {
-    name: "Qure 图标",
-    url: "https://github.com/Koolson/Qure",
-  },
-  {
-    name: "Orz-mini 图标",
-    url: "https://github.com/Orz-3/mini",
-  },
-  {
-    name: "yichahucha -- 微博广告",
-    file_names: ["wb_ad.js", "wb_launch.js"],
-    url: "https://github.com/yichahucha/surge/tree/master",//路径模板🌟
-  },
-  {
-    name: "NobyDa",
-    file_names: ["JD-DailyBonus/JD_DailyBonus.js", "52pojie-DailyBonus"],//路径模板🌟
+    name: "o1xhack eHpo1规则",
+    file_names: ["S&签(eHpo1)host 精简.conf"],
     url: "https://github.com/NobyDa/Script/tree/master",
   }
 ];
