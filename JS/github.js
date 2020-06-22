@@ -23,12 +23,12 @@ const repositories = [
   {
     name: "o1xhack 无规则",
     file_names: ["JS&签(无规则)host 精简.conf"]
-    url: "https://github.com/o1xhack/script/blob/master/",
+    url: "https://github.com/o1xhack/script/tree/master/",
   },
   {
     name: "o1xhack eHpo1规则",
     file_names: ["S&签(eHpo1)host 精简.conf"],
-    url: "https://github.com/NobyDa/Script/tree/master",
+    url: "https://github.com/o1xhack/script/tree/master/",
   }
 ];
 
