@@ -22,7 +22,7 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 const repositories = [
   {
     name: "o1xhack 无规则",
-    file_names: ["JS&签(无规则)host 精简.conf"]
+    file_names: ["JS&签(无规则)host 精简.conf"],
     url: "https://github.com/o1xhack/script/tree/master/",
   },
   {
