@@ -10,3 +10,5 @@ DOMAIN-KEYWORD,trakt
 DOMAIN-KEYWORD,tvdb
 # Spark email client
 USER-AGENT,Spark
+# DEV
+DOMAIN-SUFFIX,realm.io // ream db
