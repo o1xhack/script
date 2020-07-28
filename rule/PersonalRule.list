@@ -1,7 +1,12 @@
 DOMAIN-KEYWORD,toggl
 DOMAIN-KEYWORD,rescuetime
 DOMAIN-KEYWORD,uscreditcardguide
+USER-AGENT,Gyroscope
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-KEYWORD,exist
+USER-AGENT,Robinhood
+# Trakt related
 DOMAIN-KEYWORD,trakt
-
+DOMAIN-KEYWORD,tvdb
 # Spark email client
 USER-AGENT,Spark
