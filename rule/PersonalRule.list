@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,rescuetime
 DOMAIN-KEYWORD,uscreditcardguide
 USER-AGENT,Gyroscope
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,t.me
 DOMAIN-KEYWORD,exist
 USER-AGENT,Robinhood
 # Trakt related
