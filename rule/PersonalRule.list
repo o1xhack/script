@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-KEYWORD,exist
 USER-AGENT,Robinhood
+DOMAIN-SUFFIX,blahfaw.com // Added for webpage: uschat.blahfaw.com:443
+DOMAIN-SUFFIX,withings.com
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,githubusercontent.com
 # Trakt related
 DOMAIN-KEYWORD,trakt
 DOMAIN-KEYWORD,tvdb
