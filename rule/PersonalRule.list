@@ -1,19 +1,33 @@
-DOMAIN-KEYWORD,toggl
-DOMAIN-KEYWORD,rescuetime
-DOMAIN-KEYWORD,uscreditcardguide
-USER-AGENT,Gyroscope
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,t.me
-DOMAIN-KEYWORD,exist
-USER-AGENT,Robinhood
 DOMAIN-SUFFIX,blahfaw.com // Added for webpage: uschat.blahfaw.com:443
-DOMAIN-SUFFIX,withings.com
-DOMAIN-SUFFIX,robinhood.com
+
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,dlercloud.com // Dler Cloud vpn
+
+DOMAIN-SUFFIX,exist.io
+
+DOMAIN-SUFFIX,fireside.fm // Added for webpage: fireside.fm:443 podcast.
+DOMAIN-SUFFIX,foursquare.com // Added for webpage: api.foursquare.com:443
+
+USER-AGENT,Gyroscope
+DOMAIN-SUFFIX,gyrosco.pe // Added for webpage: api.gyrosco.pe:443
 DOMAIN-SUFFIX,githubusercontent.com
-# Trakt related
+
+DOMAIN-SUFFIX,pocketcasts.com // Added for webpage: static.pocketcasts.com:443
+
+DOMAIN-KEYWORD,rescuetime
+DOMAIN-SUFFIX,reddit.com
+USER-AGENT,Robinhood
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,realm.io // ream db
+DOMAIN-SUFFIX,rixcloud.com // rixcloud vpn
+
+USER-AGENT,Spark
+
+DOMAIN-KEYWORD,toggl
+DOMAIN-SUFFIX,t.me
 DOMAIN-KEYWORD,trakt
 DOMAIN-KEYWORD,tvdb
-# Spark email client
-USER-AGENT,Spark
-# DEV
-DOMAIN-SUFFIX,realm.io // ream db
+
+DOMAIN-KEYWORD,uscreditcardguide
+
+DOMAIN-SUFFIX,withings.com
