@@ -17,6 +17,8 @@ USER-AGENT,Gyroscope
 DOMAIN-SUFFIX,gyrosco.pe // Added for webpage: api.gyrosco.pe:443
 DOMAIN-SUFFIX,githubusercontent.com
 
+DOMAIN-SUFFIX,neverland.tk
+
 DOMAIN-SUFFIX,pocketcasts.com // Added for webpage: static.pocketcasts.com:443
 
 DOMAIN-KEYWORD,rescuetime
