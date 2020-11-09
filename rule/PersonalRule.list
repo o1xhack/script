@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,fireside.fm // Added for webpage: fireside.fm:443 podcast.
 DOMAIN-SUFFIX,foursquare.com // Added for webpage: api.foursquare.com:443
 
 USER-AGENT,Gyroscope
-DOMAIN-SUFFIX,gyrosco.pe // Added for webpage: api.gyrosco.pe:443
+//DOMAIN-SUFFIX,gyrosco.pe // Added for webpage: api.gyrosco.pe:443
 DOMAIN-SUFFIX,githubusercontent.com
 
 DOMAIN-SUFFIX,hsbc.com
