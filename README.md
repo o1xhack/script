@@ -2,6 +2,8 @@
 
 ## https://o1xhack.com/2020/06/21/surge/
 
+## Telegram 频道 https://t.me/o1xinsight
+ 
 
 ## License MIT
 
