@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,foursquare.com // Added for webpage: api.foursquare.com:443
 //USER-AGENT,Gyroscope
 //DOMAIN-SUFFIX,gyrosco.pe // Added for webpage: api.gyrosco.pe:443
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gonglue.us
 
 DOMAIN-SUFFIX,hsbc.com
 
