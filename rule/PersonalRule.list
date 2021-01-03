@@ -1,4 +1,7 @@
+DOMAIN-SUFFIX,awardwallet.com // Added for webpage: awardwallet.com:443
+
 DOMAIN-SUFFIX,blahfaw.com // Added for webpage: uschat.blahfaw.com:443
+DOMAIN-SUFFIX,blockstack.org
 
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,dlercloud.com // Dler Cloud vpn
@@ -7,15 +10,17 @@ DOMAIN-SUFFIX,exist.io
 
 DOMAIN-SUFFIX,fireside.fm // Added for webpage: fireside.fm:443 podcast.
 DOMAIN-SUFFIX,foursquare.com // Added for webpage: api.foursquare.com:443
+DOMAIN-SUFFIX,focusedwork.app // Added for webpage: focusedwork.app:443
 
-//USER-AGENT,Gyroscope
-//DOMAIN-SUFFIX,gyrosco.pe // Added for webpage: api.gyrosco.pe:443
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gonglue.us
 
 DOMAIN-SUFFIX,hsbc.com
 
-DOMAIN-SUFFIX,neverland.tk
+DOMAIN-SUFFIX,mtcgame.com
+DOMAIN,marriottintl.my.salesforce.com // Added for webpage: marriottintl.my.salesforce.com:443
+
+DOMAIN,network.bazaarvoice.com // Added for webpage:network.bazaarvoice.com:443
 
 DOMAIN-SUFFIX,pocketcasts.com // Added for webpage: static.pocketcasts.com:443
 
@@ -24,6 +29,7 @@ DOMAIN-SUFFIX,reddit.com
 USER-AGENT,Robinhood
 DOMAIN-SUFFIX,realm.io // ream db
 DOMAIN-SUFFIX,rixcloud.com // rixcloud vpn
+DOMAIN-SUFFIX,rarbg.to // Added for webpage: rarbg.to:443
 
 USER-AGENT,Spark
 
@@ -36,3 +42,4 @@ DOMAIN-SUFFIX,todoist.help
 DOMAIN-KEYWORD,uscreditcardguide
 
 DOMAIN-KEYWORD,withings
+DOMAIN-SUFFIX,welcome2neverland.com
