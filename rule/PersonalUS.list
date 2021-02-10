@@ -7,12 +7,6 @@ DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,chase.com
 DOMAIN-SUFFIX,citi.com
 DOMAIN-SUFFIX,creditkarma.com
-// Clubhouse app
-DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
-DOMAIN-SUFFIX,clubhouse.pubnub.com
-DOMAIN-SUFFIX,maintenance.joinclubhouse.com
-DOMAIN-SUFFIX,ap3.agora.io
 
 DOMAIN-SUFFIX,hsbc.com
 
