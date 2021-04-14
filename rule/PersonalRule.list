@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,fireside.fm // Added for webpage: fireside.fm:443 podcast.
 DOMAIN-SUFFIX,foursquare.com // Added for webpage: api.foursquare.com:443
 DOMAIN-SUFFIX,focusedwork.app // Added for webpage: focusedwork.app:443
 
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gonglue.us
 
 DOMAIN-SUFFIX,mtcgame.com
