@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,rixcloud.com // rixcloud vpn
 DOMAIN-SUFFIX,rarbg.to // Added for webpage: rarbg.to:443
 
 USER-AGENT,Spark
+DOMAIN-SUFFIX,substack.com
 
 DOMAIN-KEYWORD,toggl
 DOMAIN-SUFFIX,t.me
