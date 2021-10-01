@@ -1,0 +1,9 @@
+#!name=信息面板-ipcheck
+#!desc=TG频道@o1xinsight：参考各位大佬，独立分拆，自己根据需求进行模块化组建。
+
+[Script]
+ipcheck = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/congcong0806/surge-list/master/Script/ipcheck.js
+
+
+[Panel]
+ipcheck = script-name=ipcheck, title="节点信息", content="请刷新", style=info, update-interval=60

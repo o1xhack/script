@@ -1,0 +1,8 @@
+#!name=信息面板-Youtube解锁
+#!desc=TG频道@o1xinsight：参考各位大佬，独立分拆，自己根据需求进行模块化组建。
+
+[Script]
+ytb_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js
+
+[Panel]
+ytb_check = script-name=ytb_check, title="YouTube Premium 解锁检测", update-interval=10
