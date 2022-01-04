@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,gonglue.us
 
 DOMAIN-SUFFIX,mtcgame.com
 DOMAIN,marriottintl.my.salesforce.com // Added for webpage: marriottintl.my.salesforce.com:443
+DOMAIN-SUFFIX,metamask.io
 
 DOMAIN,network.bazaarvoice.com // Added for webpage:network.bazaarvoice.com:443
 
