@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,dlercloud.com // Dler Cloud vpn
 
 DOMAIN-SUFFIX,exist.io
+DOMAIN-SUFFIX,etherscan.io
 
 DOMAIN-SUFFIX,fireside.fm // Added for webpage: fireside.fm:443 podcast.
 DOMAIN-SUFFIX,foursquare.com // Added for webpage: api.foursquare.com:443
