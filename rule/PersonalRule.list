@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,focusedwork.app // Added for webpage: focusedwork.app:443
 
 DOMAIN-SUFFIX,gonglue.us
 
+DOMAIN-KEYWORD,huobi.com
+
 DOMAIN-SUFFIX,mtcgame.com
 DOMAIN,marriottintl.my.salesforce.com // Added for webpage: marriottintl.my.salesforce.com:443
 DOMAIN-SUFFIX,metamask.io
