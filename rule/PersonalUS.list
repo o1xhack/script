@@ -8,8 +8,28 @@ DOMAIN-SUFFIX,chase.com
 DOMAIN-SUFFIX,citi.com
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-SUFFIX,citizensbankonline.com
+DOMAIN-SUFFIX,carvana.io // Added for: static.fastly.carvana.io:443
+DOMAIN-SUFFIX,carvana.com // Added for: static.fastly.carvana.io:443
+DOMAIN-SUFFIX,coveredca.com
+
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dealmoon.com
+
+DOMAIN-SUFFIX,experian.com // Added for: image.e.usa.experian.com:443
+
+DOMAIN-SUFFIX,lyft.com
+
+DOMAIN-SUFFIX,pge.com
 
 DOMAIN-SUFFIX,robinhood.com
 DOMAIN-SUFFIX,raise.com
 
 DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,tmobile.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,tmobile-digital.com // Added for: rabbitmq-app.cc.tmobile-digital.com:443
+DOMAIN-SUFFIX,urbanairship.com // Added for: combine.urbanairship.com:443
+DOMAIN-SUFFIX,lpsnmedia.net // Added for: lpcdn.lpsnmedia.net:443
+
+
+
